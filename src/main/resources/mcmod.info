@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "colossuscore",
+    "name": "Colossus Core",
+    "description": "Automation library & shared code for Colossus mods",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Ewy..."],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
